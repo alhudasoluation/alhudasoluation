@@ -42,9 +42,9 @@ next-env.d.ts
 
 
 #source ignore
-/app
-/public
-/data
+# /app
+# /public
+# /data
 
 
 
