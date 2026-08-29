@@ -7,8 +7,8 @@ const nextConfig = {
     ? {}
     : {
         output: "export",
-        basePath: "/alhudasolution",
-        assetPrefix: "/alhudasolution",
+        basePath: "/",
+        assetPrefix: "/",
         images: {
           unoptimized: true,
         },
